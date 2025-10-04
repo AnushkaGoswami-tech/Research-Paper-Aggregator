@@ -25,25 +25,28 @@ Research_Paper_Aggregator/
 
 ⚙️ Installation & Setup
 1. Clone the repository
+Use this command:
 git clone https://github.com/AnushkaGoswami-tech/Research_Paper_Aggregator.git
 cd Research_Paper_Aggregator/backend
 
-👉 Or just click here: https://github.com/AnushkaGoswami-tech/Research_Paper_Aggregator
+👉 Or just click here: 
+Research_Paper_Aggregator Repo
 
-2. Create a virtual environment
+3. Create a virtual environment
 python3.11 -m venv venv
-source venv/bin/activate   # Mac/Linux
 
+source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
-4. Install dependencies
+5. Install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
 
-6. Run the application
+7. Run the application
 python app.py
 
-8. Open in browser
+9. Open in browser
+👉 Visit: http://127.0.0.1:5000/
 
 📦 Requirements (requirements.txt)
 Flask==3.0.3
@@ -63,4 +66,4 @@ PyPDF2==3.0.1
 👨‍💻 Author
 Anushka Goswami
 GitHub: https://github.com/AnushkaGoswami-tech
-
+<img width="432" height="633" alt="image" src="https://github.com/user-attachments/assets/628a39f4-3d00-48e0-bc37-165b700c254c" />
